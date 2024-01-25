@@ -1,0 +1,97 @@
+body
+{
+	font-family: 'PT Sans',sans-serif;
+	background:#252929;
+	color:white;
+	margin: 0;
+	line-height: 1.6;
+}
+
+.section
+{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-blue-technology-e-commerce-learning-education-business-poster-banner-image_123753.jpg);
+	background-repeat: no-repeat;
+    background-size: 3000px;
+    height:800px;
+    background-attachment: scroll;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+a{
+	text-decoration: none;
+	color: #ccc;
+}
+#LearnSphere
+{
+	margin: 0;
+	padding: 0;
+}
+#LearnSphere .cs
+{
+	margin-top: 0px;
+
+}
+nav
+{
+	height: 50px;
+	width: 100%;
+	background-color: #333;
+	color: rgb(51,34,34);
+	position: fixed;
+	margin-top: 0px;
+}
+nav ul{
+	margin: 0;
+	padding: 0;
+	top: 0;
+}
+nav li{
+	display: inline;
+	float: left;
+	width: 100px;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px 0;
+	color: #eee;
+}
+nav li:hover
+{
+	background-color: #444;
+}
+.container{
+	max-width: 1180px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0 3rem;
+}
+footer .footer-class
+{
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: repeat(4, 1fr);
+	padding: 2rem;
+	text-align: left;
+	font-size: 17px;
+}
+footer .footer-class ul{
+	list-style: none;
+}
+footer .footer-class ul li:first-child{
+	font-size: 1.2rem;
+	padding-bottom: 0.5rem;
+	border-bottom: #444 solid 1px;
+	margin-bottom: 1rem;
+}
+footer .footer-bottom
+{
+	background-color: #333;
+	padding: 1rem;
+	text-align: center;
+}
+#aboutus .container 
+{
+	margin-top: 0px;
+}
